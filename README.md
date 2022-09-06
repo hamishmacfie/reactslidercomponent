@@ -1,0 +1,2 @@
+# reactslidercomponent
+Slider component
