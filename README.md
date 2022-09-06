@@ -1,2 +1,2 @@
-# reactslidercomponent
+# React Slider Component
 Slider component
